@@ -39,9 +39,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="requirements.txt" />
+    <Content Include="templates\current_datetime.html" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="mysite\" />
+    <Folder Include="templates\" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
