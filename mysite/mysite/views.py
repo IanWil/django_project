@@ -1,5 +1,5 @@
 
-from django.http import HttpResponse
+from django.http import Http404, HttpResponse
 import datetime
 
 def hello (request):

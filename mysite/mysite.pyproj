@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="manage.py" />
+    <Compile Include="mysite\views.py" />
     <Compile Include="mysite\__init__.py" />
     <Compile Include="mysite\settings.py" />
     <Compile Include="mysite\urls.py" />
